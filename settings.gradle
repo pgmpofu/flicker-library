@@ -1,0 +1,3 @@
+include ':flickr-integration'
+include ':app'
+rootProject.name = "flicker-library"
